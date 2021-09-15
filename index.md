@@ -8,6 +8,4 @@
 layout: home
 ---
 
-Un mensaje de bienvenida aquí. Recuerda que las informaciones generales sobre tu sitio se cambian en el archivo de configuración. Más adelante podrás configurar la página de bienvenida como te apetezca. 
-
-Este sitio web que hemos creado el código de la plantilla Minima que puede descargarse en GitHub: [minima](https://github.com/jekyll/minima)
+Bienenido a mi pagina personal. Soy una estudiante en la Universidad de Miami, con una especializacion en Psicologia y Español. Creo que el proposito de mi vida es ayudar al mundo a tráves de la menta. Por esta razón tengo planes de conseguir un doctoral en psicologia clinica. Aunque todavia estudio para obtener mi licensiatura, ya he trabajado en un laboratorio de neurociencías que se enfoca en los efectos de entrenamiento de la menta para mejorar la atencion. 
