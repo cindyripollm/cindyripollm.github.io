@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sobre mi
+title: Sobre Mi
 permalink: /sobre_mi/
 ---
 
-En esta página va el texto que habéis elaborado sobre vosotros. Si queréis lo podéis modificar y colgar aquí cuando esté listo. De aquí al final del curso tendréis tiempo de ir cambiando y mejorando el texto. 
+Estudiante en la Universidad de Miami (Beca de George Jenkins). Informacion sobre el laboratorio. Informacion sobre PRIME y resultados de la investigacion. Esperanzas del futuro y mi carera.  
