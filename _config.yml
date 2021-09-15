@@ -3,9 +3,7 @@ author:
   name: Cindy Ripoll-Martinez
   email: cnr53@miami.edu
 description: > # this means to ignore newlines until "show_excerpts:"
-  Bienenido a mi pagina personal. Soy una estudiante en la Universidad de Miami, con una especializacion en Psicologia y Español. Creo que el proposito de mi vida
-  es ayudar al mundo a tráves de la menta. Por esta razón tengo planes de conseguir un doctoral en psicologia clinica. Aunque todavia estudio para obtener mi
-  licensiatura, ya he trabajado en un laboratorio de neurociencías que se enfoca en los efectos de entrenamiento de la menta para mejorar la atencion. 
+  Portfolio para clase SPA 410 Digital Humanities
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
