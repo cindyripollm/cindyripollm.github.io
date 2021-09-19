@@ -1,12 +1,22 @@
 ---
 layout: post
-title: "Análisis de un proyecto de HD"
+title: "Evaluación del proyecto Princeton & Slavery"
 date: 2021-08-30
-author: vuestro nombre
+author: Cindy Ripoll-Martinez 
 ---
 
-Aquí debe subirse el texto que escribisteis para vuestro análisis de un proyecto en HD. Debería ser un texto corrido y no ya la plantilla que os proporcionés para que lo llevarais a cabo. 
+Para la evolución de un proyecto de Humanidades Digitales escogí el proyecto de “Princeton & Slavery”. La institución detrás del proyecto "Princeton & Slavery" es la Universidad de Princeton. A través de una colaboración con el Center of Digital Humanities y Grafton Studio, la página web fue creada. Adicionalmente, la organización es financiada por el Princeton University Humanities Council, el Princeton Historical Society, y el Center for Digital Humanities. 
 
-Si queréis incluir imágenes recordad que se indican de la seguiente manera: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+En la página web se encuentra una lista larga de los autores y participantes de la organización. Creo que siempre hay personas que trabajan detrás de la escena y no reciben crédito, pero la página hizo un buen trabajo dándole crédito a los contribuyentes más notables o a aquellos que tienen un papel relevante en el proyecto. Otro detalle importante es que cada autor listado tiene su propia biografía. El proyecto se inició en 2013 por Martha A. Sandweiss. Duraron varios años haciendo investigaciones y creando la página web. La finalización del proyecto se materializó en el mes de noviembre de 2017. El proyecto y dicho portal de web fue creado para los estudiantes. Por esta razón, la organización se ha asociado con las escuelas públicas de Princeton, la biblioteca pública de Princeton y la Sociedad Histórica de Princeton. Igualmente, la organización ha colaborado con programas de teatro, arte, cine, y educación comunitaria para agrandar su alcance público e ir más allá de los estudiantes. 
+
+El tema de investigación detrás del proyecto es la esclavitud en Princeton University. El proyecto tuvo una creación muy orgánica debido a que empezó en un pequeño seminario de investigaciones sobre la esclavitud en Princeton y la verdad detrás de los “beneficios” de la esclavitud. Entonces los estudiantes querían saber si los profesores tenían esclavos, y si la universidad se benefició del trabajo esclavizado o del dinero derivado del trabajo de esclavos. También querían saber si los estudiantes traían sus esclavos a clase y como la esclavitud influenciaba la cultura y las conversaciones en el campus universitario. Para los estudiantes y colaboradores involucrados, esto es un proyecto de gran importancia porque creen que la historia de la universidad ilustra una paradoja en la sociedad estadounidense.   
+
+El formato de presentación elegido es multimedia. Según la plataforma, eligieron este formato en vez de escribir un libro para demostrar que es un proyecto que sigue creciendo. Creo que el formato funciona muy bien porque el objetivo de la página no es solo dar acceso a todos los manuscritos de las investigaciones sino dar a conocer sus hallazgos utilizando videos, mapas, gráficas, etc. A través de esta presentación, crearon una sección que ofrece un contexto histórico sobre el involucramiento de Princeton en la esclavitud. Por ejemplo, ilustra la paradoja de los estados unidos cuando detalla que Princeton fue la ubicación donde tuvieron el Congreso Continental en 1783 a pesar de que los primeros nueve presidentes de la universidad tenían esclavos, y Princeton también fue la ubicación de una venta de esclavos en 1766. Debido a que el portal de web incluye mucha información sobre el contexto historia, un usuario que no esté familiarizado con la esclavitud, podría no solo entender el proyecto, pero también aprender mucha más sobre el tema y utilizar la página para su beneficio. 
+
+El proyecto fue realizado después de varios años de investigaciones sobre el tema. La multimedia ofrece mapas, gráficas, videos, y fotos. La mayor parte del material consiste en los estudios llevados a cabo por 50 autores, 15 asistentes de investigaciones, más de 40 estudiantes y profesores de varias instituciones. Desafortunadamente, la página web no indica de dónde proceden los materiales. Sin embargo, con toda la información que han agrupado, sería interesante hacer un metanálasis para observar los puntos principales de la investigación. Con la colección de todos los resultados se podría analizar el impacto que tiene la historia de esclavitud en el presente. La ventaja principal de los materiales es que la mayoría son estudios científicos de manera que su investigación tiene credibilidad y validez. Por esta razón, se puede utilizar en un ambiente educativo y hasta crear una clase con un plan de estudios extensivo. 
+
+Finalmente, el proyecto no habla de falta de datos, y al igual, fue creada con la intención de seguir creciendo así que se puede ver como es fácil añadir más información sobre nuevas investigaciones. La única limitación de la pagina es la accesibilidad. Aunque los títulos de las paginas y contenido tienen énfasis con el uso de letras grande, hay algunos textos con un color gris. Esto podría actuar como una restricción para usuarios con limitaciones visuales. También, aunque las imágenes ofrecen descripciones, les faltan detalles. Finalmente, los subtítulos de video solo se ofrecen en ingles.  
+
+
+
 
