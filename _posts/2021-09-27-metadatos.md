@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Evaluación del proyecto Princeton & Slavery"
-date: 2021-08-30
+title: "Commentario's sobre metadatos realizados con Dublin Core"
+date: 2021-09-27
 author: Cindy Ripoll-Martinez 
 ---
 
+'nano'
 <?xml version="1.0"?>
 <metadata
     xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -66,5 +67,5 @@ author: Cindy Ripoll-Martinez
     <dc:rights> 
         Dominio Publico
     </dc:rights>
-
+''
 </metadata>
