@@ -154,3 +154,5 @@ Esta frase indica que el codigo o metadata esta terminado.
 ```
 </metadata>
 ```
+
+En conclusión, me encanto el proyecto. Cuando primero hoí la palabra "metadata" me asuste un poco porque no sabía que era meta ni data. Pero despues de leer varios textos y la presentación en clase, me sentí mucho mejor. Con respecto al invel de dificultad, diría que fue facil. La plantilla ofrecida para ingresar la información fue facíl de entender. Creó que la dificultad se presento cuando teníamos que interprertar el archivo. Me fascina que los que trabajan en la biblioteca hacen este trabajo. La abilidad de interpretar un archivo de una manera tan precisa y objetiva, es impresionante. 
