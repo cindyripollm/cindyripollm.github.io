@@ -5,19 +5,19 @@ date: 2021-09-27
 author: Cindy Ripoll-Martinez 
 ---
 
-Esta pagina se dedicara a explicar que es Dublin Core. Al igual se comentara en la metadata atenida a travez de Dubin Core. 
-El contenido de la metadata es sobre un postal que se encuentra en University of Miami Digital Library.
+[Dublin Core](https://es.wikipedia.org/wiki/Dublin_Core) es un modelo de metadatos para asignar contenido semántico y utilizado en instituciones culturales, como bibliotecas o archivos. En este post, comentaré cada uno los 15 elementos permitidos en este modelo, utilizando una postal que se encuentra en la biblioteca Richter de la University of Miami con el identificador [chc5324000010](https://merrick.library.miami.edu/cdm/compoundobject/collection/chc5324/id/31/rec/19).
 
 
-Esta porcion se utiliza para indicar el tipo de codigo. En este caso se utilizo xml.
+En esta primera porción de código se señala el tipo de documento (XML) y aparece el elemento raíz `metadata` donde se incluirán todos los elementos de Dublin Core:
 
 ```
-<?xml version="1.0"?>
-<metadata
-    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <?xml version="1.0"?>
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    ...
+    </metadata>
 ```
 
-Aqui se entra el titulo del postal. El titulo es sencillo y puede percibirse como una breve descripción de la tarjeta postal.
+Aquí aparece el título de la postal. El titulo es sencillo y, en este caso, puede percibirse como una breve descripción de la tarjeta postal:
 
 ```
     <dc:title> 
@@ -25,8 +25,7 @@ Aqui se entra el titulo del postal. El titulo es sencillo y puede percibirse com
     </dc:title>
 ```
 
-Para esta sección hubo un poco de confusión. No sabíamos si el creador era el creador del postal, o nosotros ya que somos los que crearon la metadata. 
-Al final concluimos que el creador es Fereico Lorca García, el creador original.
+Mientras consideramos en clase cómo rellenar este elemento, encontramos algo de confusión, pues no sabíamos si el creador era el creador de la postal, o nosotros ya que somos los que creábamos los metadatos. Al final concluimos que el creador era Federico García Lorca, el creador original.
 
 ```
     <dc:creator> 
@@ -34,7 +33,7 @@ Al final concluimos que el creador es Fereico Lorca García, el creador original
     </dc:creator>
 ```
 
-"Subject" en el codigo es semejante a "palabaras claves" Basicamente, si alguien busca en el web una de las palabas utilizadas, queremos que esta imagen aparezca.
+`Subject` equivale a "palabaras claves". Básicamente, si alguien busca en la web una de las palabas utilizadas, queremos que esta imagen aparezca:
 
 ```
     <dc:subject> 
@@ -51,8 +50,9 @@ Al final concluimos que el creador es Fereico Lorca García, el creador original
     </dc:subject>
     
 ```
-Aqui tenemos la sección de descripcion. Aquí tambien estuvimos un poco confundidos, porque esta seccion requiere nuestra interpretación de contenido. 
-Decidimos tener una descripcion cencilla en la cual explicamos a quien Federico le mando la carta. Tambien describimos un aspecto unico del posted: la flor.
+
+A continuación, tenemos la sección de descripción. Aquí tambien estuvimos un poco confundidos, porque esta sección requiere nuestra interpretación del contenido. 
+Decidimos elaborar una descripción sencilla en la cual explicamos que se trata de la carta de Federico mandada a su amigo Chacón. También describimos un aspecto unico de la postal: el dibujo de una flor.
 
 ```
     <dc:description> 
@@ -61,7 +61,7 @@ Decidimos tener una descripcion cencilla en la cual explicamos a quien Federico 
     
 ```
 
-Esta sección require que indique quien es el editor. Primero pensamos que era la Universidad de Miami, pero luego nos dimos cuenta que el postal indico "Edición José Galvez" en la parte del frente.
+Esta sección require que indique quien es el editor. Primero pensamos que era la Universidad de Miami, pero luego nos dimos cuenta de que la postal indicaba "Edición José Galvez" en la parte del frente.
 
 ```
     <dc:publisher> 
@@ -70,7 +70,7 @@ Esta sección require que indique quien es el editor. Primero pensamos que era l
     
 ```
 
-El contribudor se refiere a alguien que contribuyo al postel con excepción del creador. En esta sección ingresamos a la persona que recibío esté postal.
+El `contribudor` se refiere a alguien que contribuyó a la postal con excepción del creador. En esta sección ingresamos la persona que recibío la misiva:
 
 ```
 
@@ -79,16 +79,15 @@ El contribudor se refiere a alguien que contribuyo al postel con excepción del 
     </dc:contributor>
 ```
 
-La fecha en el postal estuvo un poquito borrosa, pero desciframos el año como 1924.
-```
+La fecha en la postal estaba un poquito borrosa, pero desciframos el año "1924":
 
+```
     <dc:date> 
         (1924-09-17)
     </dc:date>
-    
 ```
 
-Aquí se indica que tipo es el archivo. Como es una postal, decídimos que era una imagen y texto. 
+Aquí se indica qué tipo de archivo es. Al ser una postal, decídimos que era una imagen y un texto. 
 
 ```
     <dc:type> 
@@ -96,20 +95,18 @@ Aquí se indica que tipo es el archivo. Como es una postal, decídimos que era u
     </dc:type>
     <dc:type> 
         Texto
-    </dc:type>
-    
+    </dc:type> 
 ```
 
-El formato de esta imagen es JPG.
+El formato de esta imagen es JPG:
 
 ```
     <dc:format> 
         JPG
-    </dc:format>
-    
+    </dc:format>    
 ```
 
-El identifier se puede ver como la ubicacion.
+El `identifier` se entiende como la ubicación donde está el objeto: 
 
 ```
     <dc:identifier> 
@@ -118,16 +115,15 @@ El identifier se puede ver como la ubicacion.
    
 ```
 
-El "source" o la fuente se indico como la libreria digital de la Uiversidad de Miami.
+El `source` o la fuente se indicó como la biblioteca de la Uiversidad de Miami:
 
 ```
     <dc:source> 
         University of Miami Libraries Digital Collection
     </dc:source>
-    
  ```
  
- El lenguaje del postal es Español.
+ La lengua de la postal es español:
  
  ```
     <dc:language> 
@@ -136,7 +132,7 @@ El "source" o la fuente se indico como la libreria digital de la Uiversidad de M
     
 ```
 
-El "coverage" o ubícacion original del postal fue deducido como España. Al principio estabamos confundidos porque no sabíamos adonde estaba Lanjeron.
+El `coverage` o ubicación original de la postal es España, como deducimos del título de la postal. Al principio, estabamos confundidos porque no sabíamos dónde estaba Lanjaron, pero lo solucionamos rápido:
 
 ```
     <dc:coverage> 
@@ -149,10 +145,5 @@ El "coverage" o ubícacion original del postal fue deducido como España. Al pri
         Dominio Publico
     </dc:rights>
 ```
-Esta frase indica que el codigo o metadata esta terminado. 
 
-```
-</metadata>
-```
-
-En conclusión, me encanto el proyecto. Cuando primero hoí la palabra "metadata" me asuste un poco porque no sabía que era meta ni data. Pero despues de leer varios textos y la presentación en clase, me sentí mucho mejor. Con respecto al invel de dificultad, diría que fue facil. La plantilla ofrecida para ingresar la información fue facíl de entender. Creó que la dificultad se presento cuando teníamos que interprertar el archivo. Me fascina que los que trabajan en la biblioteca hacen este trabajo. La abilidad de interpretar un archivo de una manera tan precisa y objetiva, es impresionante. 
+En conclusión, me encantó llevar a cabo este ejercicio de metadatos. Cuando oí por primera vez la palabra "metadatos" me asusté un poco, porque no sabía qué era "meta" ni "datos". Pero después de leer las notas de clase y la presentación en clase de Elliot Williams, me sentí mucho mejor. Con respecto al nivel de dificultad, diría que fue relativamente fácil. La plantilla ofrecida para ingresar la información (disponible [aquí](http://metadataetc.org/dctemplate.php)) fue realmente clara y facíl de entender. Creó que la dificultad se presentó cuando teníamos que interprertar el archivo. Me fascina que los que trabajan en la biblioteca hagan este trabajo. La habilidad de interpretar un archivo de una manera tan precisa y objetiva es simplemente impresionante. 
