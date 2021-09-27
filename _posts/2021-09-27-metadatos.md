@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Commentario's sobre metadatos realizados con Dublin Core"
+title: "Un ejercicio sobre metadatos en Dublin Core"
 date: 2021-09-27
 author: Cindy Ripoll-Martinez 
 ---
