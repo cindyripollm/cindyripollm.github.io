@@ -5,7 +5,7 @@ date: 2021-10-11
 author: Cindy Ripoll-Martinez 
 ---
 
-El proyecto escogido para llevar a cabo mi  evaluación es “The World of Dante”. El proyecto está patrocinado por el Institute for Advanced Technologies in the Humanities, y la University Virginia. Las agencias financieras son IATH Research Fellowship, The National Endowment for the Humanities, y Gladys Krieble Delmas Foundation. Al igual, recibieron la ayuda  de la National Italian American Foundation. 
+El proyecto escogido para llevar a cabo mi  evaluación es [The World of Dante](http://www.worldofdante.org). El proyecto está patrocinado por el Institute for Advanced Technologies in the Humanities, y la University Virginia. Las agencias financieras son IATH Research Fellowship, The National Endowment for the Humanities, y Gladys Krieble Delmas Foundation. Al igual, recibieron la ayuda  de la National Italian American Foundation. 
 
 Con respeto a los investigadores y los participantes del proyecto, el crédito se otorga y se reconoce  en la sección “About” de la página web. En esta sección se menciona la editora general, los codirectores, la junta asesora, los project managers, los programadores y analistas, el diseñador de web, y los asistentes de investigación. Debido a la extensa lista, pienso que todos los contribuyentes del proyecto si están en la lista y han recibido el crédito que le corresponde. 
 
