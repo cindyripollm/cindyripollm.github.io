@@ -27,8 +27,12 @@ Hay varios aspectos muy interesantes de este proyecto, y diferentes formatos uti
 <br> 
 <br>
 
-<img src="/assets/images/img/003.png" height="420" width="310" align="left" border="5px solid #000000"> Una de las secciones que me atrajo más al proyecto fue “Maps”. Aquí se muestran varios mapas representando a los tres mundos de Dante, mapas geográficos, de Florencia, y sobre astronomía. Un mapa particularmente interesante es la ilustración creada por Lindsay McCulloch en 2000 presenta detalles fantásticos.
+<img src="/assets/images/img/003.png" height="420" width="310" align="left" border="5px solid #000000"> <br>
+<br> Una de las secciones que me atrajo más al proyecto fue “Maps”. Aquí se muestran varios mapas representando a los tres mundos de Dante, mapas geográficos, de Florencia, y sobre astronomía. Un mapa particularmente interesante es la ilustración creada por Lindsay McCulloch en 2000 presenta detalles fantásticos.
 
+<br>
+<br>
+<br>
 Con respecto a los tipos de datos utilizados para este proyecto, hay una breve descripción en la sección “About”. Las mayorías de las imágenes se pueden encontrar en las cajas de información y otras imágenes fueron reproducidas con permiso del Museo Dell’Opera del Duomo, Florence, y la Biblioteca Apostólica Vaticana. Igualmente, los mapas de Europa, Italia, y Florencia de 1300 fueron reproducidos con el permiso del Museo Casa di Dante.   
 
 En cuanto a  las limitaciones, la página web es un poco difícil para navegar y es algo lenta para cargar  la información. Asimismo hay que dedicar algo de tiempo a explorar para ubicar la  información en vez de localizarla inmediatamente. La accesibilidad también requiere un poco de trabajo, pues  el texto es algo pequeño, difícil de leer, y solo se ofrece en inglés. También hay texto que no tiene un buen contraste de color, y claramente será difícil de descifrar por alguien que tiene impedimentos visuales de color.
