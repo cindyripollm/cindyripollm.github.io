@@ -3,6 +3,6 @@ layout: page
 title: Ejercicios
 ---
 
-En esta página colgaremos los enlaces a los diferentes ejercicios y trabajos que llevaréis a cabo. De momento puedes escribir un mensaje dónde diga lo que contendrá este página. 
+En esta página se encuentran los enlaces de los diferentes ejercicios y trabajos que se completaran es nuestra clase. 
 
 - [Ejercicio de codificación con las *Memorias* de Leonor López de Córdoba](https:// cindyripollm.github.io/ejercicios/tu_enlace.html)
