@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="transform.xslt"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Las Memorias de Leonor López de Córdoba</title>
+            <editor xml:id="Cindy">Cindy Ripoll Martínez</editor>
+            <editor xml:id="Mila">Mila Dvorquez</editor>
+            <editor xml:id="Charlotte">Charlotte Kessinger</editor>
+            <editor xml:id="Gabrielle">Gabrielle Magnant</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Ejercicio de codificación colaborativa y transformación de un documento XML-TEI en
+               una simple página web en HTML estática, en el marco del curso SPA410, durante el
+               semestere de <date>Invierno de 2021.</date>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Para llevar a cabo este ejercicio de codificación hemos utilizado <bibl xml:id="Castro_1902"><title>Memorias de una dama del
+                        <date>siglo XIV y XV:</date> Doña Leonor López de Córdoba. (Vida de doña
+                     Leonor López de Córdoba, escrita por ella misma.)</title> ed. <editor>Adolfo de
+                     Castro</editor>, en «La España Moderna» nº 163, <pubPlace>Madrid</pubPlace>,
+                     <date>Julio 1902</date>, pp. 120-146</bibl>. Disponible en <ref
+                  target="https://archive.org/details/n16365laespaamoderna14madruoft/page/n125/mode/2up"
+                        >Internet Archive</ref>.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head>Vida de Doña Leonor López de Córdoba, escrita por ella misma</head>
+
+         <p><pb edRef="#Castro_1902" n="124"/><num>1.</num> En el nombre de <name type="religion">Dios Padre</name> y del
+            <name type="religion">Hijo</name> y del <name type="religion">Espíritu Santo</name>, tres
+            personas y un solo <name type="religion">Dios</name> verdadero en Trinidad, al cual sea dada
+            gloria á el <name type="religion">Padre</name> y al <name type="religion">Hijo</name> y al <name
+               type="religion">Espíritu Santo</name>, ansí como era en el comienzo, ansí es agora y por
+            el siglo de los siglos. <seg>Amén</seg>. En el nombre del qual sobredicho <name
+               type="religion">Señor</name> y de la <name type="religion">Virgen Santa María</name> su
+            Madre y Señora y abogada de los pecadores y á honra y ensalzamiento de todos los <name
+               type="religion">ángeles</name> é <name type="religion">Santos</name> y <name
+                  type="religion">Santas</name> de la corte del cielo, <seg>Amén</seg>. = Por ende,
+            sepan cuantos estas escripturas vieren, como yo Doña <persName
+               key="https://es.wikipedia.org/wiki/Leonor_López_de_Córdoba">Leonor López de
+               Córdoba</persName>, fija de mi Señor el <persName
+               key="https://es.wikipedia.org/wiki/Martín_López_de_Córdoba">Maestre Don Martín López
+               de Córdoba</persName> é Doña <persName>Sancha Carrillo</persName>, á quien dé <name
+                  type="religion">Dios</name> gloria y paraíso, <hi rend="mayusculas">juro</hi> por esta
+            significanza de <formula>+</formula>, en que yo adoro como todo esto que aquí es
+            escripto es verdad, que lo ví é pasó por mí; y escríbolo á honra y alabanza de mi <name
+               type="religion">Señor Jesu Christo</name> é de la <name type="religion">Virgen Santa
+               María</name> su madre que lo parió; porque todas las criaturas que estuvieren en
+            tribulación sean ciertas; que yo espero en su misericordia, que si se encomiendan de
+            corazón á la <name type="religion">Virgen Santa María</name>, que ella las consolará y
+            acorrerá como consoló á mí, y porque quien lo oyere sepa la relación de todos mis hechos
+            é milagros que la <name type="religion">Vírgen Santa María</name> me mostró; y es mi
+            intención que quede por memoria, mandélo escribir así como vedes.</p>
+         <p><num>2.</num> Y ansí que yo soy fija del dicho Maestre, que fué de
+               <roleName>Calatrava</roleName> en el tiempo del Señor <persName
+               key="https://es.wikipedia.org/wiki/Pedro_I_de_Castilla">Rey Don Pedro</persName>, y
+            el dicho Señor Rey le hizo merced de darle la encomienda de
+               <roleName>Alcántara</roleName>, que es en la ciudad de
+            <placeName>Sevilla</placeName>; y luego le hizo <roleName>Maestre de
+               Alcántara</roleName> y á la postre de <roleName>Calatrava</roleName>. Y el dicho
+            Maestre, mi padre, era descendiente de la <name type="familia">casa de Aguilar</name> y
+            sobrino de <pb edRef="#Castro_1902" n="125"/><persName key="https://es.wikipedia.org/wiki/Don_Juan_Manuel"
+               >Don Juan Manuel</persName>, fijo de una sobrina suya, fija de un hermano. Y subió á
+            tan grande estado, como se hallará en las <title>Coroninas de España</title>. E como
+            dicho tengo soy fija de Doña <persName>Sancha Carrillo</persName>, sobrina é criada del
+            Señor <persName key="https://es.wikipedia.org/wiki/Alfonso_XI_de_Castilla">Rey Don
+               Alfonso</persName>, de muy esclarecida memoria, que <name type="religion">Dios</name> dé
+            santo paraíso, padre del dicho Señor <persName
+               key="https://es.wikipedia.org/wiki/Pedro_I_de_Castilla">Rey Don Pedro</persName>; y
+            mi madre falleció muy temprano.</p>
+         <p><pb edRef="#Castro_1902" n="126"/><num>3.</num> Y así me casó mi padre de siete años con <persName
+               key="https://es.wikipedia.org/wiki/Ruy_Gutiérrez_de_Hinestrosa">Ruy Gutiérrez de
+               Henestrosa</persName>, hijo de <persName
+               key="https://es.wikipedia.org/wiki/Juan_Fernández_de_Hinestrosa">Juan Fernández de
+               Henestrosa</persName>, <roleName>Camarero Mayor</roleName> del Señor <persName
+               key="https://es.wikipedia.org/wiki/Pedro_I_de_Castilla">Rey Don Pedro</persName> y Su
+               <roleName>Canciller Mayor del Sello de la puridad</roleName> y <roleName>Mayordomo
+               Mayor</roleName> de la <persName key="https://es.wikipedia.org/wiki/Blanca_de_Borbón"
+               >Reyna Doña Blanca</persName>, su mujer, el cual casó con Doña <persName
+               key="https://en.wikipedia.org/wiki/María_Díaz_I_de_Haro">María de Haro</persName>,
+               <roleName>Señora de Haro y los Cameros</roleName>. Y á mi marido quedáronle muchos
+            bienes de su padre y muchos lugares: y alcanzaba trescientos de á caballo suyos é
+            cuarenta madejas de aljófar tan grueso como garbanzos, é quinientos moros é moras, y dos
+            mil marcos de plata en bajilla; y las joyas y preseas <pb edRef="#Castro_1902" n="127"/>de su casa no las
+            pudieron escribir en dos pliegos de papel. Y esto le cupo del dicho su padre y madre;
+            porque otro fijo y heredero no tenían. A mí me dió mi padre veinte mil doblas en
+            casamiento.</p>
+         <p><num>4.</num> Y residíamos en <placeName>Carmona</placeName> con las fijas del Señor
+               <persName key="https://es.wikipedia.org/wiki/Pedro_I_de_Castilla">Rey Don
+               Pedro</persName>, y yo, é mis cuñados, maridos de mis hermanas, y un hermano mío, que
+            se llamaba Don <persName>Lope López de Córdoba Carrillo</persName>. Llamábanse mis
+            cuñados <persName>Fernán Rodriguez de Aza</persName>, <roleName>Señor de Aza é
+               Villalobos</roleName>, é el otro <persName>Ruy García de Aza</persName>, el otro
+               <persName>Lope Rodríguez de Aza</persName>, que eran fijos de <persName>Álvaro
+               Rodríguez de Aza</persName> é de Doña <persName>Constanza de
+            Villalobos</persName>.</p>
+         <p><num>5.</num> Y fué ansí: que cuando el Señor <persName
+               key="https://es.wikipedia.org/wiki/Pedro_I_de_Castilla">Rey Don Pedro</persName>
+            quedó cercado en <placeName>Montiel</placeName> de su hermano el Señor <persName
+               key="https://es.wikipedia.org/wiki/Enrique_II_de_Castilla">Rey Don Enrique</persName>
+            y mi Padre bajó al <placeName>Andalucía</placeName> á llevar gente para socorrerlo; y
+            llevándola, halló que era muerto á manos de su hermano. Y vista esta desgracia, tomó el
+            camino para <placeName>Carmona</placeName>, donde estaban las señoras <name
+               xml:id="infantas">Infantas</name>, fijas del Señor <persName
+               key="https://es.wikipedia.org/wiki/Pedro_I_de_Castilla">Rey Don Pedro</persName> y
+            parientas tan cercanas de mi marido y mías por mi madre. Y el Señor <persName
+               key="https://es.wikipedia.org/wiki/Enrique_II_de_Castilla">Rey Don
+            Enrique</persName>, viéndose <roleName>Rey de Castilla</roleName>, se vino á
+               <placeName>Sevilla</placeName> y puso cerco á <placeName>Carmona</placeName>. Y como
+            es villa tan fuerte, estuvo muchos meses cercada.</p>
+         <p><num>6.</num> Y acaso habiendo salido mi padre fuera de ella y sabiéndolo los del
+               <placeName>Real del Rey</placeName>, como era salido de la dicha villa, ofreciéronse
+            doce caballeros á escalar la villa; y subidos á ella á la muralla, fueron presos; y
+            luego fue avisado mi padre del tal hecho y vino luego, y por el atrevimiento les mandó
+            cortar las cabezas.</p>
+         <p><num>7.</num> Y el Señor <persName
+               key="https://es.wikipedia.org/wiki/Enrique_II_de_Castilla">Rey Don
+            Enrique</persName>, visto este fecho y que no podía por fuerzas de armas entrarla á
+            satisfacerse de esto hecho, mandó al <roleName>Condestable de Castilla</roleName>
+            tratase de medios con mi padre. Y los medios que mi padre trató fueron dos: el uno, que
+            las Señoras <name corresp="#infantas">Infantas</name> las habían de poner libres á ellas
+            y á sus tesoros en <placeName>Inglaterra</placeName>, antes que él entregase la dicha
+            villa al Rey. Y ansí fue hecho, porque mandó á unos escuderos, deudos suyos naturales de
+               <placeName>Córdoba</placeName> y de su apellido, que fuesen <pb edRef="#Castro_1902" n="128"/>con ellas, y
+            la demás gente que le pareció. El otro capítulo fue que él y sus hijos y valedores y los
+            que habían asistido por su orden en aquella villa, fuesen perdonados del Rey, y dados
+            por leales á ellos y á sus haciendas; y así se le dió firmado del dicho
+               <roleName>Condestable</roleName>, en nombre del Rey.</p>
+         <p><num>8.</num> Y hecho este partido, entregó la villa al dicho
+               <roleName>Condestable</roleName> en nombre del Rey; y de allí fueron él y sus hijos y
+            la demás gente á besar la mano del Rey. Y el Señor <persName
+               key="https://es.wikipedia.org/wiki/Enrique_II_de_Castilla">Rey Don Enrique</persName>
+            mandólos prender y poner en las <placeName>Atarazanas de Sevilla</placeName>; y el dicho
+               <roleName>Condestable</roleName>, visto que el Señor <persName
+               key="https://es.wikipedia.org/wiki/Enrique_II_de_Castilla">Rey Don Enrique</persName>
+            no le había cumplido la palabra que él había dado en su nombre al dicho Maestre, se
+            salió de su Corte y nunca más volvió á ella.</p>
+         <p><pb edRef="#Castro_1902" n="132"/><num>9.</num> Y el Señor Rey mandó que le cortasen la cabeza á mi padre en
+            la <placeName>plaza de San Francisco, de Sevilla</placeName>, y que le fuesen
+            confiscados sus bienes y los de su yerno, valedores y criados.</p>
+         <p><num>10.</num> Y yéndole a cortar la cabeza encontró con <persName
+               key="https://es.wikipedia.org/wiki/Bertrand_du_Guesclin">Mosen Beltrán de
+               Clequin</persName>, caballero francés, que fue el caballero que el <persName
+               key="https://es.wikipedia.org/wiki/Pedro_I_de_Castilla">Rey Don Pedro</persName> se
+            había fiado del que lo pornía en salvo, es tando cercado en el <placeName>castillo de
+               Montiel</placeName>; y no cumpliendo lo que le prometió, antes le entregó al
+               <persName key="https://es.wikipedia.org/wiki/Enrique_II_de_Castilla">Rey Don
+               Enrique</persName> para que lo matase; y como encontró á el Maestre, díjole: <q
+               who="#Bertrand_du_Guesclin">Señor Maestre,¿no os decía yo que vuestras andanzas
+               habían de parar en esto?</q> Y él respondió: <q who="#Martín_López_de_Córdoba">Más
+               vale morir como leal, como yo lo he hecho, que no vivir como vos</q>.</p>
+         <p><pb edRef="#Castro_1902" n="133"/><num>11.</num> Y estuvimos los demás que quedamos presos nueve años, hasta
+            que el Señor <persName key="https://es.wikipedia.org/wiki/Enrique_II_de_Castilla">Rey
+               Don Enrique</persName> falleció; y nuestros maridos tenían sesenta libras da hierro
+            cada uno en los pies. <pb edRef="#Castro_1902" n="134"/>Y mi hermano D. <persName>Lope López</persName> tenía
+            una cadena encima de los hierros, en que había setenta eslabones. El era niño de trece
+            años, la más hermosa criatura que había en el mundo. E á mi marido, en especial,
+            poníanlo en el algibe de la hambre, é teníanlo seis ó siete días que nunca comía ni
+            bebía, porque era primo de las señoras <name corresp="#infantas">Infantas</name>, hijas
+            del Señor <persName key="https://es.wikipedia.org/wiki/Pedro_I_de_Castilla">Rey Don
+               Pedro</persName>.</p>
+         <p><num>12.</num> En esto vino una pestilencia é murieron todos, mis dos hermanos é mis
+            cuñados é trece caballeros de la casa de mi padre. E <persName>Sancho Miñez de
+               Villendra</persName>, su <roleName>camarero mayor</roleName>, decía á mí y á mis
+            hermanos: <q who="#Sancho">«Hijos de mi Señor, rogad á <name type="religion">Dios</name> que
+               os viva yo, que si yo os vivo, nunca moriréis pobres.»</q> E plugo á <name
+                  type="religion">Dios</name> que murió el tercero día sin hablar.</p>
+         <p><num>13.</num> E á todos los sacaban á desherrar al desherradero, como moros después de
+            muertos. El triste de mi hermano <persName>Don Lope López</persName> pidió al
+               <roleName>Alcaide</roleName> que nos tenía, que le dijese á <persName>Gonzalo Ruiz
+               Dolante</persName>, que nos hacía mucha caridad é mucha honra por amor de <name
+                  type="religion">Dios</name>: <q who="#Lope-Lopez">«Señor Alcaide, sea agora vuesa merced
+               que me tirase estos hierros antes que salga mi ánima é que no me sacasen al
+               desherradero,»</q> E él díjole: –<q who="#alcaide">«¿Cómo? ¿Como á moro?»</q> – <q
+               who="#alcaide">«Si en mí fuese, yo lo faría.»</q> Y en esto salió su ánima en mis
+            manos, que había él un año más que yo. E sacáronlo en una tabla al desherradero, como á
+            moro; é enterráronlo con mis hermanos é con mis hermanas é con mis cuñados en
+               <placeName>San Francisco de Sevilla</placeName>. E mis cuñados traían sendos collares
+            de oro á la garganta, que eran cinco hermanos; é se pusieron aquellos collares en
+               <placeName>Santa María de Guadalupe</placeName>, é prometieron no quitárselos hasta
+            que todos cinco se los tirasen á <name type="religion">Santa María</name>, que por sus
+            pecados el uno murió en <placeName>Sevilla</placeName> y el otro en
+               <placeName>Lisbona</placeName> y el otro en <placeName>Inglaterra</placeName>. E así
+            murieron derramados, é se mandaron enterrar con sus collares de oro; é los frailes con
+            la codicia, después de enterrados, le quitaron el collar. Y no quedaron en la
+               <placeName>Atarazana</placeName> de la casa de mi Señor el <persName
+               key="https://es.wikipedia.org/wiki/Martín_López_de_Córdoba"> Maestre</persName> sino
+            mi marido y yo. </p>
+         <p><num>14.</num> Y en esto murió el muy alto y muy esclarecido señor <persName
+               key="https://es.wikipedia.org/wiki/Enrique_II_de_Castilla">Rey Don
+            Enrique</persName>, de muy santa y esclarecida memoria, y mandó en su testamento que nos
+            sacasen de la prisión é nos <pb edRef="#Castro_1902" n="137"/>tornasen todo lo nuestro; é yo quedé en casa de
+            mi señora tía Doña <persName xml:id="Maria_Garcia_Carrillo">María García
+               Carrillo</persName> é mi marido fué á demandar sus bienes, é los que los tenían
+            preciáronlo poco, porque no tenía estado ni manera para les poder demandar; é los
+            derechos ya sabéis, como dependen á los lugares que han con que se demandar; é así
+            perdióse mí marido é anduvo siete años por el mundo como desventurado y nunca halló
+            pariente ni amigo que bien le hiciese ni hubiese piedad de él. E á cabo de siete años,
+            estando yo en casa de mi señora mi tía Doña <persName>María García Carrillo</persName>,
+            dijeron á mí marido, que estaba en <placeName>Badajoz</placeName> con su tío
+               <persName>Lope Fernández de Padilla</persName> en la guerra de
+               <placeName>Portugal</placeName>, que yo estaba muy bien andante, que me habían hecho
+            mucho bien mis parientes, cabalgó encima de su mula, que valía muy pocos dineros, é lo
+            que traía vestido no valía treinta maravedís, y entróse por la puerta de mi señora mi
+            tía.</p>
+         <p><num>15.</num> Yo como había sabido que mí marido andaba perdido por el mundo, traté con
+            mi señora mi tía, hermana de mi señora mi madre, que le decían Doña <persName>Teresa
+               Fernández Carrillo</persName> (estaba en la <roleName>Orden de
+            Guadalajara</roleName>, que la hicieron mis bisabuelos, é dotaron precio para cuarenta
+            Ricas-hembras de su linaje, que viniesen en aquella Orden), enviéle á demandar le
+            pluguiese que yo fuese acogida en aquella Orden, pues por mis pecados mi marido é yo
+            eramos perdidos; y ella y toda la Orden alcanzaronlo en dicha, porque mi señora madre se
+            había criado en aquellos monasterios; y de allí la sacó el <persName
+               key="https://es.wikipedia.org/wiki/Pedro_I_de_Castilla">Rey Don Pedro</persName> é la
+            dió á mi padre que casase con ella; porque ella era hermana de <persName>Gonzalo Díaz
+               Carrillo</persName> é de <persName>Diego Carrillo</persName>, fijos de Don <persName>
+               Juan Fernández Carrillo</persName> é de Doña <persName>Sancha de Rojas</persName>. E
+            porque esos mis tíos habían temor del dicho Señor Don <persName
+               key="https://es.wikipedia.org/wiki/Pedro_I_de_Castilla">Pedro</persName>, que había
+            muerto y desterrado muchos de este linage, y á mi abuelo le había derribado las casas é
+            dado quanto tenía á otrie, estos mis tíos fuéronse dende á servir al <persName
+               key="https://es.wikipedia.org/wiki/Enrique_II_de_Castilla">Rey Don Enrique</persName>
+            (quando era conde) por este enojo. Y nací en <placeName type="ciudad"
+               >Calatayud</placeName> en casa del Señor Rey, é fueron las Señoras <name
+               corresp="#infantas">Infantas</name> sus fijas mis madrinas, y trujéronme con ellas al
+               <placeName type="edificio">Alcázar de Segovia</placeName> con mí señora madre, que
+            allí murió y quedé yo en edad, que nunca la conocí.</p>
+         <p><num>16.</num> Y después que mi marido vino, como dicho es, fuese en casa de mí señora
+            mi tía, que era en <placeName type="ciudad">Córdoba</placeName> junto á <placeName
+               type="edificio">Sant Hipólito</placeName>, y á mí y á mi marido me acojió allí en
+            unas casas junto á las suyas. Y viéndonos con poco descanso, fize una oración á <name
+               type="santo">la Virgen Santa María de Belén</name> treinta días: cada noche rezaba
+            trescientas aves marías de rodillas para que pusiese en corazón á mi señora que
+            consintiese abrir un postigo á sus casas. Y dos días antes que acabase la oración,
+            demandé á mí señora mi tía que me dejase abrir aquel postigo, porque no viniéramos por
+            la calle á comer á su mesa, entre tantos caballeros que había en <placeName
+               type="ciudad">Córdoba</placeName>; é la su merced me respondió le placía, é yo fui
+            muy consolada. E quando otro día quise abrir el postigo, criadas suyas le habían vuelto
+            su corazón que no lo hiciese. Y fui tan desconsolada que perdí la paciencia. E la que me
+            hizo más contradicción con mi señora mi tía, se murió en mis manos comiéndose la lengua.
+            E otro día, que no quedaba más que un día de acabar mi oración, sábado, soñaba que
+            pasando por <placeName type="ciudad">Sant Hipólito</placeName>, tocando el alba, vía en
+            la pared de los corrales un arco muy grande y muy alto, é que entraba yo por allí y
+            cogía flores de la sierra y veía muy gran cielo. Y en esto desperté é oré esperanza en
+            <name type="religion">la Virgen Santa María</name> que me daría casa. En esso vino un
+            robo de la judería, é tomó un niño <name corresp="#Alonso_criado">huérfano</name> que
+            tenía para que fuese instruido <pb edRef="#Castro_1902" n="140"/>en la fée. Hícelo baptizar para que fuese
+            instruido en la fée; y un día viniendo con mi señora mi tía de misa en <placeName
+               type="ciudad">Sant Hipólito</placeName>, ví repartir á los clérigos de <placeName
+               type="ciudad">Sant Hipólito</placeName> aquellos corrales, donde soñé yo que había el
+            arco grande; y le supliqué á mi señora mi tía Doña <persName>Mencía Carrillo</persName>
+            que fuese servida de comprar aquel sitio para mí; pues había diez y siete años que
+            estaba en su compañía y me las compró, dándolas con la condición que señalaba, que se
+            hiciese una capellanía impuesta sobre las dichas casas por el alma del Señor <persName
+               key="https://es.wikipedia.org/wiki/Alfonso_XI_de_Castilla">Rey Don
+               Alfonso</persName>, que hizo aquella iglesia á nombre de <name type="religion">Sant
+               Hipólito</name>, porque nació él á tal día. E tienen estos capellanes otras seis ó
+            siete capellanías de Don <persName
+               key="https://es.wikipedia.org/wiki/Gonzalo_Fern%C3%A1ndez_de_C%C3%B3rdoba"> Gonzalo
+               Fernández</persName>, marido de la dicha señora mi tía, é Don <persName>Alonso
+               Fernández</persName>, <roleName>Señor de Aguilar</roleName> é del
+               <roleName>Mariscal</roleName>, sus fijos.</p>
+         <p><num>17.</num> Entonces, hecha esta merced, alcé los ojos á <name type="religion"
+            >Dios</name> y á <name type="religion">la Virgen María</name>, dándole gracias por ello;
+            y ende llegó á mí un <name corresp="#Alonso_criado">criado</name> del Maestre, mi señor y Padre, que vive con
+               <persName>Martín Fernández</persName>, <roleName>Alcayde de los Donceles</roleName>,
+            que allí estaba oyendo misa. Enviéle á pedir con aquel <name corresp="#Alonso_criado">criado</name> suyo, para
+            que como pariente, le diese las gracias á mi Señora mi tía de la merced que me había
+            hecho; y á él plúgole mucho y así lo hizo con buena mensura, diciéndole que esta merced
+            recibía él por suya. E dádome la posesión, abrí una puerta en el sitio y lugar que había
+            visto el arco que la <name type="religion">Virgen María</name> me mostró. E á los
+               <name>Abades</name> les pesó que me entregasen el dicho solar, porque yo era de gran
+            linaje, y que mis hijos serían grandes, y ellos eran <name>Abades</name> y que no habían
+            menester grandes caballeros cabe sí, y yo túvelo por buen proverbio, y díjeles esperaba
+            en <name type="religion">Dios</name> que así sería, y concertéme con ellos de tal
+            manera, que abrí la puerta en aquel lugar donde yo quería. E tengo que por aquella
+            caridad que hice en criar aquel <name corresp="#Alonso_criado">huérfano</name> en la fée
+            de <name type="religion">JesuChristo</name>, <name type="religion">Dios</name> me ayudó á darme
+            aquel comienzo de casa.</p>
+         <p><num>18.</num> E de antes de esto, yo había ido treinta días á maitines ante
+               <placeName>Santa María, el Amortecida</placeName>, que es en la <roleName>orden de
+               San Pablo de Córdoba</roleName>, con aguas y con vientos y descalza, é <pb edRef="#Castro_1902" n="141"
+            />rezábale sesenta y tres veces esta oración, que se sigue con sesenta y seis
+            Aves-Marías, en reverencia de los sesenta y seis años que ella vivió con amargura en
+            este mundo, porque ella me diese casa, é ella me dió casa y casas por su misericordia,
+            mejores que yo las merecía, y comienza la oración: <lg>
+               <l><name type="religion">Madre Santa María</name>,</l>
+               <l>De vos gran dolor había;</l>
+               <l>Vuestro fijo bien criado</l>
+               <l>Vístelo atormentado:</l>
+               <l>Con tu gran tribulación</l>
+               <l>Amortecíósevos el corazón:</l>
+               <l>Después de tu tribulación</l>
+               <l>Puso vos consolación:</l>
+               <l>Ponedle vos á mí, Señora,</l>
+               <l>Que sabéis mi dolor.</l>
+            </lg> En este tiempo, pluguiese que con el ayuda de mi señora mi tía y de labor de mis
+            manos, hice en aquel corral dos palacios y una huerta é otras dos ó tres casas para
+            servicio.</p>
+         <p><pb edRef="#Castro_1902" n="143"/><num>19.</num> En este tiempo vino una pestilencia muy cruel y mi Señora no
+            quería salir de la ciudad é yo demandéle merced de huir con mis hijuelos, que no se me
+            muriesen; y á ella no le plugo; mas dióme licencia, yo partíme de <placeName
+               type="ciudad">Córdoba</placeName> y fuíme á <placeName type="ciudad">Santa
+               Ella</placeName> con mis hijos y el <name corresp="#Alonso_criado">huérfano</name>
+            que yo crié.</p>
+         <p><num>20.</num> Vivía en <placeName type="ciudad">Santa Ella</placeName> y aposentóme en
+            su casa y todos los vecinos de la villa se holgaron mucho de mi ida, y recibiéronme con
+            mucho gasajo, porque habían sido criados del Señor mí padre; y así me dieron la mejor
+            casa que había en el lugar, que era la de <persName>Fernando Alonso Medina
+               Barba</persName>. Y estando sin sospecha, entró mi Señora tía con sus hijas; é yo
+            apartéme á una cuadra pequeña; y sus hijas mis primas nunca estaban bien conmigo, por el
+            bien que me hacía su madre. Y desde allí pasé tantas amarguras, que no se podrían
+            escribir; y vino allí pestilencia y así se partió mi Señora con su gente para
+               <placeName>Aguilar</placeName>, aunque asaz... para sus <name>hijas</name> porque su
+            madre me quería mucho y hacía grande cuenta de mí.</p>
+         <p><num>21.</num> E yo había enviado aquel <name corresp="#Alonso_criado">huérfano</name>
+            que crié á <placeName type="ciudad">Ecija</placeName>. La noche que llegamos á
+               <placeName type="ciudad">Aguilar</placeName> entró de <placeName type="ciudad"
+               >Ecija</placeName> el mozo con dos landres en la garganta y tres carbuncros en el
+            rostro con muy grande calentura, y estaba allí D. <persName>Alfonso
+            Fernández</persName>, mi primo, su mujer y toda su casa; y así que todas ellas mis
+            sobrinas y mis amigas vinieron á mí en sabiendo que mi <name corresp="#Alonso_criado">criado</name> venía así y
+            dijéronme, <q who="sobrinas_amigas">«vuestro criado <persName xml:id="Alonso_criado"
+                  >Alonso</persName> viene con pestilencia, y sí D. <persName>Alfonso
+                  Fernández</persName> lo vé, hará maravillas estando con tal enfermedad»</q>. Y el
+            dolor que á mí corazón llegó, bien lo podéis entender quien esta historia oyéreis; que
+            yo venía corrida y amarga; y en pensar que por mí había entrado tan gran dolencia en
+            aquella casa, fue llamar un criado del <pb edRef="#Castro_1902" n="144"/>Señor mi Padre el Maestre, que se
+            llamaba <persName>Miguel de Santa Ella</persName>, é roguéle que llevase aquel mozo á su
+            casa. El cuitado tuvo miedo y dijo: <q who="Miguel_Santaella">«Señora, Señora, ¿cómo lo
+               llevaré con pestilencia que me mate?</q> Y díjele: <q who="#Leonor_López_de_Córdoba"
+               >«Hijo, no querrá <name type="religion">Dios</name>.»</q> Y él con vergüenza de mí
+            llevólo; é por mis pecados trece personas que de noche lo velaban, todos murieron.</p>
+         <p><num>22.</num> Y yo facía una oración, que había oído, que hacía una monja ante un
+            Crucifijo. Parece que ella era muy devota de <name type="religion">Jesu Christo</name>, y
+            diz que después que había oído maitines, veníase ante un Crucifijo, y rezaba de rodillas
+            siete mil veces:<q who="#monja">«Piadoso fijo de la virgen, vénzate piedad»</q>; y que
+            una noche, estando la monja cerca donde ella estaba, que oyó que le respondió el
+            Crucifijo, é dijo: <q who="#crucifijo">«Piadoso me llamaste, piadoso te seré.»</q> E yo
+            había gran devoción en estas palabras: rezaba cada noche esta oración, rogando á <name
+               type="religion">Dios</name> me quisiese librar á mí y á mis fijos: é si alguno obiere de
+            llevar, llevase el mayor, porque era muy doliente.</p>
+         <p><num>23.</num> E plugo á <name type="religion">Dios</name> que una noche no fallaba quien
+            velase aquel mozo doliente, porque habían muerto todos los que hasta entonces le habían
+            velado. E vino á mí aquel mi fijo que le decían <persName>Juan Fernández de
+               Henestrosa</persName>, como su <name
+               key="https://es.wikipedia.org/wiki/Juan_Fern%C3%A1ndez_de_Hinestrosa">abuelo</name>,
+            que era de edad de doce años é cuatro meses, é díjome: <q
+               who="Juan_Fernández_de_Henestrosa">«Señora, ¿no hay quien vele á <persName
+                  corresp="#Alonso_criado">Alonso</persName> esta noche?»</q> E díjele: <q
+                     who="#Leonor_López_de_Córdoba">«Veladlo vos por amor de <name type="religion"
+               >Dios</name>.»</q> Y respondióme: <q who="Juan_Fernández_de_Henestrosa">«Señor, agora
+               que han muerto otros, ¿queréis que me mate?»</q> E yo díjele: <q
+                  who="Leonor_López_de_Córdoba">«Por la caridad, que yo fago, <name type="religion"
+                  >Dios</name> habrá piedad de mí.»</q> E mí hijo por no salir de mi mandamiento lo
+            fue á velar; é por mis pecados aquella noche le dio la pestilencia é otro día le
+            enterré, y el enfermo vivió después, habiendo muerto todos los dichos.</p>
+         <p><num>24.</num> E la mujer de <persName>D. Alfonso Fernández</persName>, mi prima, hubo
+            muy gran enojo, porque moría mi fijo por tal ocasión en su casa; y la muerte en la boca,
+            lo mandaba sacar de ella. Y yo estaba tan traspasada de pesar, que no podía hablar del
+            corrimiento que aquellos señores me hacían. Y el triste de mi hijo decía: <q
+               who="Juan_Fernández_de_Henestrosa">«Decid á mi señora <persName xml:id="nuera_Teresa"
+                  >Doña Teresa</persName> que no me haga echar, <pb edRef="#Castro_1902" n="145"/>que ahora saldrá mi
+               ánima para el cielo.»</q> Y aquella noche falleció y se enterró en <placeName
+               type="edificio">Santa María de la Coronada</placeName>, que es en la villa, porque
+               <persName corresp="#nuera_Teresa">Doña Teresa</persName> me tenía mala intención, y
+            no sabía por qué, y mandó que no lo soterrasen dentro de la villa.</p>
+         <p><num>25.</num> Y así, cuando lo llevaban á enterrar fui yo con él; y cuando iba por la
+            calle con mi hijo, las gentes salían dando alacridos, amancilladas de mí, y decían: <q
+               who="gente_de_Aguilar">«Salid, señoras, y veréis la más desventurada, desamparada é
+               más maldita mujer del mundo»</q>, con los gritos que los cielos traspasaban. E como
+            los de aquel lugar, todos eran crianza y hechura del señor mi padre; y aunque sabían que
+            les pesaba á sus señores, hicieron grande llanto conmigo, como si fuera su señora.</p>
+         <p><num>26.</num> Esta noche como vine de soterrar á mí hijo, luego me dijeron que me
+            viniese á <placeName type="ciudad">Córdoba</placeName>: é yo llegué á mí señora mi tía
+            por ver si me lo mandaba ella. Ella me dijo: <q who="#Maria_Garcia_Carrillo">«Sobrina
+               señora, no puedo dejar de hacerlo, que á mi <name corresp="#nuera_Teresa"
+                  >nuera</name> y á mis <name>fijas</name> lo he prometido, porque son hechas en
+               uno; y en tanto me han afligido que os parta de mí, que se lo ove otorgado, é esto no
+               sé qué enojo hacéis á mí nuera <persName corresp="#nuera_Teresa">Doña
+                  Teresa</persName> que tan mala intención os tiene».</q> Y yo le dije con muchas
+            lágrimas: <q who="#Leonor_López_de_Córdoba">«Quiera <name type="religion">Dios</name> no me
+               salve si merecí por qué.»</q> Y así víneme á mi casa á <placeName type="ciudad"
+               >Córdoba</placeName>.</p>
+      </body>
+   </text>
+</TEI>

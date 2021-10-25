@@ -1,0 +1,38 @@
+
+#metadatos {
+border-style: outset;
+padding: 7px;
+border: 2px dashed #8A2BE2;
+border-radius: 5px;
+font-family: "Lucida Console", "Courier New", monospace;
+margin: 7px;
+}
+
+#poema {
+margin-left: 20px;
+padding-left: 20px;
+line-height: 0.8rem;
+display: block;
+}
+
+/* Colores: */
+.persName {
+    color: #2a7ae2;
+}
+
+.placeName {
+    color: #5fd79a;
+}
+
+.roleName {
+    color: #89c1e4;
+}
+
+.name {
+    color: #fe6060;
+}
+
+.q {
+    color: #B8860B;
+}
+
