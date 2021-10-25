@@ -23,7 +23,7 @@
             <body>
                 <header class="site-header">
                     <div class="wrapper">
-                        <a class="site-title" rel="author" href="/">Digital Humanities @ UM - SPA 410</a>
+                        <a class="site-title" rel="author" href="/">Cindy Ripoll-Martinez</a>
                         <nav class="site-nav">
                             <input type="checkbox" id="nav-trigger" class="nav-trigger"/>
                             <label for="nav-trigger">
