@@ -76,7 +76,7 @@
                                         >https://archive.org/details/n16365laespaamoderna14madruoft/page/n125/mode/2up</a>
                                 </span>
                                 <br/>
-                                <p>Consulta el <a href="https://dh-miami.github.io/ejercicios/mapa.html">mapa con el recorrido de Leonor</a></p>
+                                <p>Consulta el <a href="https://cindyripollm.github.io/ejercicios/mapa.html">mapa con el recorrido de Leonor</a></p>
                             </div>
 
                             <xsl:apply-templates/>
@@ -95,28 +95,24 @@
                                     </a>
                                 </p>
                                 <ul class="contact-list">
-                                    <li class="p-name">Susanna Alles-Torrent</li>
+                                    <li class="p-name">Cindy Ripoll-Martinez</li>
                                     <li>
-                                        <a class="u-email" href="mailto:susanna_alles@miami.edu"
-                                            >susanna_alles@miami.edu</a>
+                                        <a class="u-email" href="cnr53@miami.edu"
+                                            >cnr53@miami.edu</a>
                                     </li>
                                 </ul>
                             </div>
                             <div class="footer-col">
-                                <p>Prueba de la página DH Miami para mis estudiantes que son todos
-                                    estupendos. </p>
+                                <p>Portfolio para la clase SPA 410 </p>
                             </div>
                         </div>
                         <div class="social-links">
                             <ul class="social-media-list">
                                 <li>
-                                    <a rel="me" href="https://github.com/susannalles"
-                                        title="susannalles">
+                                    <a rel="me" href="https://github.com/cindyripollm"
+                                        title="cindyripollm">
                                         <!--<svg class="svg-icon grey"></svg>--></a>
-                                </li>
-                                <li>
-                                    <a rel="me" href="https://twitter.com/sallesto" title="sallesto">
-                                        <!--<svg class="svg-icon grey"></svg>--></a>
+          
                                 </li>
                             </ul>
                         </div>
