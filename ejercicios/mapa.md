@@ -11,4 +11,4 @@ A través de Google Maps, se creo un mapa nuevo. Un elemento de Google Maps que 
 En resumen, tuve una experiencia muy buena con Google Maps y continuaré a utilizar esta aplicación para la creación de mapas en el futuro. No es solamente fácil de utilizar y navegar, pero también ofrece varias opciones para modificar y personalizar la apariencia de tu mapa. 
 
 
-<iframe src= "https://www.google.com/maps/d/u/0/edit?mid=1n6u6oPHdnDGs3VCY1eJFHjlv2E0Y2D5u&usp=sharing" width="640" height="500"></iframe>
+<iframe src= "https://www.google.com/maps/d/edit?mid=1n6u6oPHdnDGs3VCY1eJFHjlv2E0Y2D5u&usp=sharing" width="640" height="500"></iframe>
