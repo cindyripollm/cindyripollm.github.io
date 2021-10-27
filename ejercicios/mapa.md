@@ -9,6 +9,8 @@ Leonor López de Córdoba es la creadora de la primera autobiografía de España
 A través de Google Maps, se creo un mapa nuevo. Un elemento de Google Maps que facilito el proceso es la importación de un archivo con los nombres de lugares. Ya que los detalles de los lugares de Leonor estaban en un Google Sheet, simplemente importamos el Google Sheet al nuevo mapa creado con Google Maps.  Con direcciones, Google Maps automáticamente marco el lugar e incluyo la ciudad, país, y descripción de cada lugar. El ultimo paso consistió en añadir imágenes a cada lugar- otro proceso que fue facilitado por elementos de Google Maps. Google Maps te da la opción de añadir tu propia imagen o hacer un Google Image Search. 
 
 En resumen, tuve una experiencia muy buena con Google Maps y continuaré a utilizar esta aplicación para la creación de mapas en el futuro. No es solamente fácil de utilizar y navegar, pero también ofrece varias opciones para modificar y personalizar la apariencia de tu mapa. 
+  
+
+  <iframe src="https://www.google.com/maps/d/embed?mid=1n6u6oPHdnDGs3VCY1eJFHjlv2E0Y2D5u" width="640" height="500"></iframe>
 
 
-<iframe src= "https://www.google.com/maps/d/edit?mid=1n6u6oPHdnDGs3VCY1eJFHjlv2E0Y2D5u&usp=sharing" width="640" height="500"></iframe>
