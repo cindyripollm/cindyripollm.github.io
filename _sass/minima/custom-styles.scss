@@ -19,3 +19,8 @@ a {
   &:hover {
   $link-hover-color: #9370db;
   }
+
+ p {
+   $text-color: white;
+   $base-font-family: 'Courier New', 'monospace'
+ }
