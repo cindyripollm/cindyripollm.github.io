@@ -1,51 +1,13 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 
+`_sass/minima/custom-variables.scss`
+
 body {
-    margin: 60px auto;
-    width: 70%;
-    background-color: black;
-}
-nav ul, footer ul {
-    font-family:'Marker Felt', 'fantasy';
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
-    background-color: black;
-}
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
-    background-color: black;
-}
-a {
-    text-decoration: none;
-    color: #c0c0c0;
-}
-a:hover {
-    text-decoration: underline;
-}
-h1 {
-    font-size: 3em;
-    font-family:'Marker Felt', 'fantasy';
-    color: #48cf3e
-}
-p {
-    font-size: 1.5em;
-    line-height: 1.4em;
-    font-family:'Marker Felt', 'fantasy';
-    color: #333;
-}
-footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+ 
+    $background-color: black;
+    $text-color: #48cf3e;
+    $base-font-family:'Marker Felt', 'fantasy';
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
-}
 
-ul.posts li {
-    list-style: none;
-}
