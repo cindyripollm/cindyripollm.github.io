@@ -8,19 +8,3 @@ body {
     $text-color: #48cf3e;
     $base-font-family:'Marker Felt', 'fantasy';
 }
-
-a {
-  $link-base-color: white;
-
-  &:visited {
-  $link-visited-color: #e6e6fa;
-  }
-
-  &:hover {
-  $link-hover-color: #9370db;
-  }
-
- p {
-   $text-color: white;
-   $base-font-family: 'Courier New', 'monospace'
- }
