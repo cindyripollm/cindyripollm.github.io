@@ -2,7 +2,7 @@
 #metadatos {
 border-style: outset;
 padding: 7px;
-border: 2px dotted #008B8B;
+border: medium dotted #008B8B;
 border-radius: 5px;
 font-family: "Lucida Console", "Courier New", monospace;
 margin: 7px;
@@ -21,7 +21,7 @@ display: block;
 }
 
 .placeName {
-    color: #E9967A;
+    color: #C71585;
 }
 
 .roleName {
@@ -29,10 +29,10 @@ display: block;
 }
 
 .name {
-    color: #556B2F;
+    color: #006400;
 }
 
 .q {
-    color: #8B0000;
+    color: #DC143C;
 }
 
