@@ -1,19 +1,15 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: black;
 }
 nav ul, footer ul {
-    font-family:'Marker Felt', 'fantasy';
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    background-color: black;
 }
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-    background-color: black;
 }
 a {
     text-decoration: none;
@@ -24,7 +20,7 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Marker Felt', 'fantasy';
+    $code-font-family:'Marker Felt', 'fantasy';
     color: #48cf3e
 }
 p {
