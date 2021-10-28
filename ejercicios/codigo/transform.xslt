@@ -17,8 +17,8 @@
             <head>
                 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
                 <title>Tarea 6: Codificación XML-TEI y Transformacion </title>
-                <link rel="stylesheet" href="https://dh-miami.github.io/assets/css/style.css"/>
-                <link rel="stylesheet" href="https://dh-miami.github.io/Leonor/estilo.css"/>
+                <link rel="stylesheet" href="https://cindyripollm.github.io/assets/css/style.css"/>
+                <link rel="stylesheet" href="https://cindyripollm.github.io/ejercicios/codigo/estilo.css"/>
             </head>
             <body>
                 <header class="site-header">
