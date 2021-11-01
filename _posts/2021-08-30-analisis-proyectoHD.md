@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Evaluación del proyecto Princeton & Slavery"
+title: "Presentación 1. Evaluación del proyecto Princeton & Slavery"
 date: 2021-08-30
 author: Cindy Ripoll-Martinez 
 ---
