@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Comentario sobre la Text Encoding Intiative"
+title: "Tarea 4. Comentario sobre la Text Encoding Intiative"
 date: 2021-10-11
 author: Cindy Ripoll-Martinez
 ---
