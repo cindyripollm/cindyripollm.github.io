@@ -15,7 +15,7 @@ minima:
   # generate social links in footer
   social_links:
    # twitter: jekyllrb
-    github:  cindyripollm.github.io
+    github:  https://cindyripollm.github.io
     # devto: jekyll
     # dribbble: jekyll
      facebook: https://www.facebook.com/cindy.nelly.37/
