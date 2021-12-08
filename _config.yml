@@ -3,7 +3,7 @@ author:
   name: Cindy Ripoll-Martinez
   email: cnr53@miami.edu
 description: > # this means to ignore newlines until "show_excerpts:"
-  Portfolio para clase SPA 410 Digital Humanities
+  Portfolio para la clase de Digital Humanities [SPA410]
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -14,11 +14,11 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
+   # twitter: jekyllrb
     github:  cindyripollm.github.io
     # devto: jekyll
     # dribbble: jekyll
-    # facebook: jekyll
+     facebook: https://www.facebook.com/cindy.nelly.37/
     # flickr:   jekyll
     # instagram: jekyll
     # linkedin: jekyll
