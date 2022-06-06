@@ -8,4 +8,6 @@
 layout: home
 ---
 
-A travñés de esta página se accede a todos los proyectos, ensayos y ejercicios completados para la clase SPA 410 "Digital literacy through literary topics" que se enfoca en las humanidades digitales. La sección Sobre mi incluye una breve descripcion de mi educacion y experiencia con las humanidades digitales. En Blog, encontrarás los ensayos relacionados con diferentes análisis y proyectos hechos a lo largo del semestre. Finalmente, en la sección Ejercicios, tendrás acceso al proyecto de Leonor. Este projecto requirió un mapa de las ciudades mencionadas en el texto de Leonor, al igual que una propuesta de un proyecto de edición digital. 
+This GitHub Page acts as a visual presentation of my previous work, and simultaneous achievements and milestones, accomplished throughout my career as a University of Miami student in the School of Arts and Sciences. Additionally, independent papers and more recent works acquired on my journey toward a doctoral degree in Clinical Psychology, will be accessible. Given my specializations in Psychology and Spanish, with miniors in Philosophy and Ecosystem's Science and Policy, all publications made on this cite, will fall within these areas of interest. The goal of this project is to create an almost interactive archive of my gradual career development: to a degree, it acts as a personal website, similar to a Wikipedia sight. Enjoy!
+
+
