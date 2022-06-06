@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Presentación 2. Evaulación de la edición digital The World of Dante"
+title: "Evaulación de la edición digital The World of Dante"
 date: 2021-10-11
 author: Cindy Ripoll-Martinez 
 ---
