@@ -1,0 +1,12 @@
+---
+layout: default
+title: Previous Works
+---
+	<h1>{{ page.title }}</h1>
+	<ul class="posts">
+	<p1> The works on this listing primarily consists of essays exploring a wide range of topics. Given my fields of focus (i.e., Psychology, Spanish, Philosophy and Environmental Policy),
+		essays have been written in Spanish or English and fall withn the aformentioned fields.</p>
+	  {% for post in site.posts %}
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
