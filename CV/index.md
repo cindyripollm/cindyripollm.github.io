@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: Curriculum Vitae
 ---
 
 # I. HIGHER EDUCATION
