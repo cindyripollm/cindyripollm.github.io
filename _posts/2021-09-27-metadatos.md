@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tarea digital 3. Un ejercicio sobre metadatos en Dublin Core"
+title: "Un ejercicio sobre metadatos en Dublin Core"
 date: 2021-09-27
 author: Cindy Ripoll-Martinez 
 ---
