@@ -7,9 +7,9 @@ title: Curriculum Vitae
 B.A. University of Miami, Coral Gables, FL	
 May 2022
 
-<br> Majors: Psychology, Spanish </br> 
-<br> Minor: Philosophy, Ecosystem Science and Policy </br>
-<br> Cumulative GPA: 3.7/4.0 </br>
+<br> Majors: Psychology, Spanish  
+<br> Minor: Philosophy, Ecosystem Science and Policy 
+<br> Cumulative GPA: 3.7/4.0
 
 # II.RESEARCH EXPERIENCE
 ### Research Assistant at the Jha Lab, University of Miami
