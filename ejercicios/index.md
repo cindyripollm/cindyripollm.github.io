@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Ejercicios
+title: Digital Literacy
 ---
 
-En esta página se encuentran dos enlances dedicados al texto de Leonor López de Córdoba. Tarea Digital 5presentará un mapa de Google de las ciudades y lugares mencionados en el texto de Leonor. Tarea Digital 6 incluye la codificación collaborativa del texto de Leonor con XML-TEI.
+These proyects were developed as a group effort to digitilize the previous works of Leonor López de Córdoba. Below, you will be able to access a Google Map that highlights the places that are mentioned in Leonor's text. Additionally, you are able to access the text directly in the following link which will direct you to a script collaboratively coded with XML-TEI. 
 
-- [Tarea Digital 5: Mapa sobre el recorrido de Leonor López](https://cindyripollm.github.io/ejercicios/mapa.html)
-- [Tarea Digital 6: Ejercicio de codificación con las *Memorias* de Leonor López de Córdoba](https://cindyripollm.github.io/ejercicios/codigo/LLC_memorias.html)
+- [Map of the locations in the text of Leonor López](https://cindyripollm.github.io/ejercicios/mapa.html)
+- [Coding exercise of the text *Memorias* de Leonor López de Córdoba](https://cindyripollm.github.io/ejercicios/codigo/LLC_memorias.html)
 
