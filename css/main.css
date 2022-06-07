@@ -21,7 +21,7 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    code-font-family:'Garamond', 'Times';
+    $code-font-family: "Times New Roman", "Times", serif;
     color: #000000
 }
 p {
