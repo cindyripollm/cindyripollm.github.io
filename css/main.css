@@ -13,24 +13,24 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #c0c0c0;
+    color: #000000;
 }
 a:hover {
     text-decoration: underline;
 }
 h1 {
     font-size: 3em;
-    $code-font-family:'Marker Felt', 'fantasy';
-    color: #48cf3e
+    $code-font-family:'Times New Roman', 'Times';
+    color: #000000
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #ffffff;
-    font-family: "Lucida Console", "Courier New", monospace;
+    font-family: "Times New Roman ", "Times", "serif";
 }
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 1px solid #CD5C5C;
     color: #ffffff;
     font-size: .8em;
 }
