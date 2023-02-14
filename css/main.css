@@ -11,28 +11,27 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-
 a {
     text-decoration: none;
-    color: #000000;
+    color: #c0c0c0;
 }
 a:hover {
     text-decoration: underline;
 }
 h1 {
     font-size: 3em;
-    $code-font-family: "Times New Roman", "Times", serif;
-    color: #000000
+    $code-font-family:'Marker Felt', 'fantasy';
+    color: #48cf3e
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #ffffff;
-    font-family: "Garamond", "Times", "serif";
+    font-family: "Lucida Console", "Courier New", monospace;
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    color: #CD5C5C;
+    color: #ffffff;
     font-size: .8em;
 }
 
